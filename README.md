@@ -1,6 +1,6 @@
 # Beginners-Guide-to-Linux
 
-This repository contains the presentation materials for the Beginners Guide to Linux workshop conducted on September 30, 2027.
+This repository contains the presentation materials for the Beginners Guide to Linux workshop conducted on September 30, 2026.
 
 # Workshop Overview
 
